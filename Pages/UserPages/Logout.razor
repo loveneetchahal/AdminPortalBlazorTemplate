@@ -1,0 +1,14 @@
+﻿@page "/logout"
+@using AdminPortalBlazorTemplate.Services.AuthService
+@inject IAuthService AuthService
+@inject NavigationManager NavManager
+
+<PageTitle>Logout</PageTitle>
+
+@code {
+    protected override async Task OnInitializedAsync()
+    {
+        await AuthService.Logout();
+        NavManager.NavigateTo("/");
+    }
+}

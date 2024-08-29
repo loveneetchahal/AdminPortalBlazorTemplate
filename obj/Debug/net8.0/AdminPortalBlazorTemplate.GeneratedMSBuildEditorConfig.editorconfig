@@ -1,0 +1,75 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = AdminPortalBlazorTemplate
+build_property.RootNamespace = AdminPortalBlazorTemplate
+build_property.ProjectDir = C:\Users\LoveneetChahal\Projects\LoveneetChahal\AdminPortalBlazorTemplate\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\LoveneetChahal\Projects\LoveneetChahal\AdminPortalBlazorTemplate
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/LoveneetChahal/Projects/LoveneetChahal/AdminPortalBlazorTemplate/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LoveneetChahal/Projects/LoveneetChahal/AdminPortalBlazorTemplate/Pages/Authentication.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aGVudGljYXRpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LoveneetChahal/Projects/LoveneetChahal/AdminPortalBlazorTemplate/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LoveneetChahal/Projects/LoveneetChahal/AdminPortalBlazorTemplate/Pages/UserPages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclBhZ2VzXExvZ2luLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LoveneetChahal/Projects/LoveneetChahal/AdminPortalBlazorTemplate/Pages/UserPages/Logout.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclBhZ2VzXExvZ291dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LoveneetChahal/Projects/LoveneetChahal/AdminPortalBlazorTemplate/Pages/UserPages/Register.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclBhZ2VzXFJlZ2lzdGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LoveneetChahal/Projects/LoveneetChahal/AdminPortalBlazorTemplate/Shared/LoginDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExvZ2luRGlzcGxheS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LoveneetChahal/Projects/LoveneetChahal/AdminPortalBlazorTemplate/Shared/RedirectToLogin.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFJlZGlyZWN0VG9Mb2dpbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LoveneetChahal/Projects/LoveneetChahal/AdminPortalBlazorTemplate/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LoveneetChahal/Projects/LoveneetChahal/AdminPortalBlazorTemplate/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LoveneetChahal/Projects/LoveneetChahal/AdminPortalBlazorTemplate/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-kjw0ziafqx
+
+[C:/Users/LoveneetChahal/Projects/LoveneetChahal/AdminPortalBlazorTemplate/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-mof7yjsryz
+
+[C:/Users/LoveneetChahal/Projects/LoveneetChahal/AdminPortalBlazorTemplate/Shared/Components/ToolTip.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbXBvbmVudHNcVG9vbFRpcC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-btcmryv2cj
